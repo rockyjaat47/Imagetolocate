@@ -10,7 +10,7 @@
 
 <a href="http://exif.regex.info/exif.cgi">meta-data</a><h4> 👆 Web site is here 👆</h4>
 <h4> Follow this step's for track location </h4><br>
-<p> step 1: take image with our victin phone with the use of any Social engineering trick.</p><br>
+<p> step 1: take image with our victim phone with the use of any Social engineering trick.</p><br>
 <p> step 2:Then open your computer browser I recommend chrome for this process because it will work best in this case.</p><br>
 <p> step 3:click on my given like below in this post.
 </p><br>
