@@ -16,7 +16,7 @@
 </p><br>
 <p>step 4: when you are gone this link it's tell you to upload a you image file on there site click to upload file and take I'm not a robot!</p><br>
 <p> step 5: this site show you many types of data in her results</p><br>
-<img src="http://img01.jpg"> <br>
+<img src="img01.jpg"> <br>
 <p> It will show some type's of data like image Aperture,location add ISO, filename and much more about your image in this case of your meta data who exist in your image file you are uploaded. </p>
 
 ### Give me Credit for this post
